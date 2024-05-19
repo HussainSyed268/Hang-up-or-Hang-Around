@@ -54,12 +54,12 @@ The project requires the following Python libraries:
 
 1. **Clone this repository**:
     ```sh
-    git clone https://github.com/HussainSyed268/hang-up-or-hang-around.git
+    git clone https://github.com/HussainSyed268/Hang-up-or-Hang-Around.git
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd hang-up-or-hang-around
+    cd Hang-up-or-Hang-Around
     ```
 
 3. **Install the required dependencies**:
